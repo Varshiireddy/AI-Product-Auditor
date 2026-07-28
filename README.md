@@ -121,7 +121,7 @@ AI_Product_Auditor/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_Product_Auditor.git
+git clone https://github.com/Varshiireddy/AI-Product-Auditor.git
 
 cd AI_Product_Auditor
 ```
@@ -304,14 +304,13 @@ Interactive dashboard containing
 ---
 
 # 📷 Screenshots
+![HTML Report](screenshots/HTML1.png)
+![HTML Report](screenshots/HTML2.png)
+![HTML Report](screenshots/HTML3.png)
+![HTML Report](screenshots/HTML4.png)
 
-Add screenshots of the generated HTML report here.
 
-Example
 
-```
-screenshots/report.png
-```
 
 ---
 
