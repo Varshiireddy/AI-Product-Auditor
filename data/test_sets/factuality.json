@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Capital Question",
+        "prompt": "What is the capital of France? Answer in one sentence.",
+        "category": "factuality",
+        "expected_keyword": "Paris",
+        "reference_answer": "The capital of France is Paris."
+    },
+    {
+        "name": "Python Creator",
+        "prompt": "Who created Python?",
+        "category": "factuality",
+        "expected_keyword": "Guido",
+        "reference_answer": "Python was created by Guido van Rossum."
+    },
+    {
+        "name": "Largest Planet",
+        "prompt": "What is the largest planet in our solar system?",
+        "category": "factuality",
+        "expected_keyword": "Jupiter",
+        "reference_answer": "The largest planet in our solar system is Jupiter."
+    }
+]
